@@ -5,7 +5,7 @@
 </div>
 
 <div align='center'>
-  <img src="https://github.com/Matsuno-Chifuyu12.png" width="200" style="border-radius:50%;" />
+  <img src="https://github.com/Matsuno-Chifuyu12.png" width="350" style="border-radius:50%;" />
 </div>
 
 
