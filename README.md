@@ -1,14 +1,11 @@
 
 
-# <div align='center'>WhatsApp Web API</div>
-
+# <div align='center'>
+  <h2>WhatsApp Web API</h2>
+</div>
 
 <div align='center'>
-
-
-![WhatsApp API](https://github.com/Matsuno-Chifuyu12/Kurona-v1/blob/main/menu.jpg?raw=true)
-
-
+  <img src="https://github.com/Matsuno-Chifuyu12.png" width="200" style="border-radius:50%;" />
 </div>
 
 
